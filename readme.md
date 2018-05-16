@@ -1,3 +1,15 @@
+Conexion a web service de Placetopay para pagos PSE - Implementada en Laravel - Desarrollada por Sergio Gallego 323 344 3369 <br><br>
+
+Base de datos mysql <a href="https://drive.google.com/file/d/1l0TFbS8LyfL2_H-PdjEcR680WS6YQvKJ/view?usp=sharing">Clic aqui</a><br>
+<b>Usuario</b> = sergiogara7@gmail.com <br>
+<b>Contraseña</b> = 1234 <br>
+<br><br>
+Proyecto completo laravel con base de datos <a href="https://drive.google.com/drive/folders/1BpnnKAT63sdJ5Pe5oYAQTkblHzxfYNVu?usp=sharing">Clic aqui</a>
+<br><br>
+Demo online <a href="placetopay.uffox.com">Clic aqui</a>
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
