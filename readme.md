@@ -6,7 +6,7 @@ Base de datos mysql <DB_USERNAME=admin><DB_PASSWORD=1234> <a href="https://drive
 <br><br>
 Proyecto completo laravel con base de datos <a href="https://drive.google.com/drive/folders/1BpnnKAT63sdJ5Pe5oYAQTkblHzxfYNVu?usp=sharing">Clic aqui</a>
 <br><br>
-Demo online <a href="placetopay.uffox.com">Clic aqui</a>
+Demo online <a href="http://placetopay.uffox.com">Clic aqui</a>
 
 
 
