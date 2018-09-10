@@ -4,11 +4,6 @@ Base de datos mysql <DB_USERNAME=admin><DB_PASSWORD=1234> <a href="https://drive
 <b>Usuario login</b> = sergiogara7@gmail.com <br>
 <b>Contraseña login</b> = 1234 <br>
 <br><br>
-Proyecto completo laravel con base de datos <a href="https://drive.google.com/drive/folders/1BpnnKAT63sdJ5Pe5oYAQTkblHzxfYNVu?usp=sharing">Clic aqui</a>
-<br><br>
-Demo online <a href="http://placetopay.uffox.com">Clic aqui</a>
-
-
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
